@@ -12,17 +12,18 @@ The online education platform allows users to learn new skills and knowledge fro
 - Attendance tracking: Instructors should be able to track student attendance for each course.
 - Security: The platform should be secure against unauthorized access, data breaches, and cyber attacks.
 - Tutor dashboard: Tutors should have a dashboard where they can view their students, their progress, and their attendance.
-- User management: The admin should be able to add, remove, and edit users.
+- User management: The admin should be able to add, remove, and edit users , track them.
 - Course management: The admin should be able to add, remove, and edit courses.
-- Tutor management: The admin should be able to add, remove, and edit tutors.
+- Tutor management: The admin should be able to add, remove, and edit tutors, track them.
 - Reporting: The admin and tutors should be able to generate reports with specific information for them.
 
 ## User flow digram 
-![Usersflow digram drawio](https://github.com/ibrahim-elsokary/ABS.AI_BrainStorm_Project/assets/107218787/02f35c5f-c51c-4472-8131-d1d391ff1b08)
+![Usersflow digram drawio](https://github.com/ibrahim-elsokary/ABS.AI_BrainStorm_Project/assets/107218787/9c24e235-8bc5-4da1-b7af-5894905ec3de)
 
 
 ## Class model digram
-![task3 drawio](https://github.com/ibrahim-elsokary/ABS.AI_BrainStorm_Project/assets/107218787/75da1e95-816a-4440-b63c-21a002e46450)
+![task3 drawio](https://github.com/ibrahim-elsokary/ABS.AI_BrainStorm_Project/assets/107218787/5a7f8db1-4352-47ae-95bd-ff03e5bfeb21)
+
 
 
 
