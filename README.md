@@ -22,7 +22,8 @@ The online education platform allows users to learn new skills and knowledge fro
 
 
 ## Class model digram
-![task3 drawio](https://github.com/ibrahim-elsokary/ABS.AI_BrainStorm_Project/assets/107218787/5a7f8db1-4352-47ae-95bd-ff03e5bfeb21)
+![class digram drawio](https://github.com/ibrahim-elsokary/ABS.AI_BrainStorm_Task/assets/107218787/0ee4f634-aed4-4594-9472-354a68150f3e)
+
 
 
 
